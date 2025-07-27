@@ -1,0 +1,1 @@
+# **The power of the Java interface and Generics in Spring Boot: parameterize the Spring Data Repository so that it can easily switch to different SQL databases or to NoSql (MongoDb) without having to change the business logic (Service layer)**
