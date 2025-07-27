@@ -35,7 +35,8 @@ Each message is published to a country-specific MQTT queue — Italian messages 
 Poland: obu_message_poland
 
 
-CREATE TABLE obu_message_poland (
+CREATE TABLE obu_message_poland 
+(
     id BIGINT PRIMARY KEY,
 
     szerokosc DOUBLE PRECISION,
@@ -49,7 +50,8 @@ CREATE TABLE obu_message_poland (
 
 Italy: obu_message_ita
 
-CREATE TABLE obu_message_ita (
+CREATE TABLE obu_message_ita 
+(
     id BIGINT PRIMARY KEY,
 
     latitudine DOUBLE PRECISION,
