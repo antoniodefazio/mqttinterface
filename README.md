@@ -1,4 +1,4 @@
-# **The power of the Java interface and Generics in Spring Boot: parameterize the Spring Data Repository so that it can easily switch to different SQL databases or to NoSql (MongoDb) without having to change the business logic (Service layer)**
+# **The power of Java interface and Generics in Spring Boot: parameterize the Spring Data Repository so that it can easily switch to different SQL databases or to NoSql (MongoDb) without having to change the business logic (Service layer)**
 
 This article was born from a work need that I satisfied and is dedicated to a dear colleague of mine who told me that it is not possible to parameterize Spring Data repositories with an interface, Chatgpt says about the same thing, for now....
 
