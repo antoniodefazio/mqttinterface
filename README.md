@@ -11,7 +11,7 @@ I apologize in advance for the antipatterns in the project and for the repeated 
 Last night I spent a couple of hours taking my code from a Spring Boot project from a couple of years ago and writing this article.
 
 Code at https://github.com/antoniodefazio/mqttinterface
-Article in detail in https://github.com/antoniodefazio/mqttinterface/blob/master/README.md file
+Article in detail in https://github.com/antoniodefazio/mqttinterface/blob/master/README.md 
 You can clone it and enjoy launching it locally.
 
 This is entirely the result of my knowledge and ChatGpt doesn't give the correct answer, for now….
