@@ -36,6 +36,7 @@ Poland: obu_message_poland
 
 
 CREATE TABLE obu_message_poland 
+
 (
     id BIGINT PRIMARY KEY,
 
@@ -51,6 +52,7 @@ CREATE TABLE obu_message_poland
 Italy: obu_message_ita
 
 CREATE TABLE obu_message_ita 
+
 (
     id BIGINT PRIMARY KEY,
 
