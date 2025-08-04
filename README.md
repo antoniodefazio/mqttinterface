@@ -1,5 +1,7 @@
 # **The power of Java interface and Generics in Spring Boot: parameterize the Spring Data Repository so that it can easily switch to different SQL databases or to NoSql (MongoDb) without having to change the business logic (Service layer)**
 
+https://www.linkedin.com/pulse/power-java-interface-parameterize-spring-data-so-can-easily-de-fazio-iekae/?trackingId=GfCT7m01QIKl6x6iFY1YQw%3D%3D
+
 This article was born from a work need that I satisfied and is dedicated to a dear colleague of mine who told me that it is not possible to parameterize Spring Data repositories with an interface, Chatgpt says about the same thing, for now....
 
 
@@ -67,6 +69,7 @@ CREATE TABLE obu_message_ita
 I had to carefully design the MQTT listener architecture to support this multi-country persistence strategy, while ensuring that the same internal business logic was preserved across all listeners. 
 
 **Without using the interface as a parameter of the repostitory I would have had to create a single project with repeated code, or a Git project for each country taking care to keep the logic aligned.**
+
 
 
 
